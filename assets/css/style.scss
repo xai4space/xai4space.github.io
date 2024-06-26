@@ -1,0 +1,110 @@
+---
+---
+
+$header-heading-color: white;
+$header-bg-color: #000;
+$header-bg-color-secondary: #FFF;
+
+$section-headings-color: black;
+$body-text-color: black !default;
+$body-link-color: #C41E3A !default;
+$blockquote-text-color: #999 !default;
+
+$border-color: #999 !default;
+$table-border-color: white !default;
+$hr-border-color: #999 !default;
+
+$code-text-color: black;
+
+@import 'jekyll-theme-cayman';
+
+.logo-container {
+  margin: auto;
+  width: 25%;
+  margin-top: 1.75rem;
+}
+
+.main-content {
+  padding-top: 0;
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    margin-top: 2rem;
+    margin-bottom: 1rem;
+    font-weight: bold;
+    color: $section-headings-color;
+  }
+}
+
+.page-header {
+  // position: sticky;
+  // top: 0px;
+  
+  color: $header-heading-color;
+  text-align: center;
+  background-color: $header-bg-color;
+  background-image: url('https://hbaniecki.com/temp3/assets/images/banner2.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+
+  @include large {
+    padding: 1rem 1rem;
+  }
+
+  @include medium {
+    padding: 1rem 1rem;
+  }
+
+  @include small {
+    padding: 1rem 1rem;
+  }
+}
+
+.project-tagline {
+  opacity: 0.8;
+  color: black;
+}
+
+td {
+  vertical-align: top;
+}
+
+abstract {
+  font-size: 0.90rem;
+}
+
+.chair {
+  font-weight: 400;
+}
+
+.highlight {
+  background-color: yellow;
+}
+
+blockquote {
+  color: black !important;
+}
+
+blockquote {
+  color: black !important;
+}
+
+.ologo {
+  padding: 10px;
+}
+
+.ologoplus {
+  padding: 25px;
+}
+
+.center {
+  text-align: center;
+}
+
+.btn {
+  font-weight: 600;
+}

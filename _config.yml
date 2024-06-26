@@ -1,0 +1,25 @@
+title: "PINEAPPLE: Explainable AI for hyperspectral image analysis"
+description: ""
+
+timezone: Europe/Warsaw
+
+navigation:
+  Project: "#project"
+  Team: "#team"
+  Results: "#results"
+  Contact: "#contact"
+  🚀 KP Labs: https://kplabs.space
+  🤖 MI2.AI: https://www.mi2.ai
+  🛰️ ESA: https://philab.esa.int
+
+markdown: kramdown
+
+kramdown:
+  parse_span_html: true
+  parse_block_html: true
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-spaceship
+
+exclude: ['README.md', 'Gemfile', 'Gemfile.lock']
