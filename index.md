@@ -25,7 +25,7 @@ Research project done in collaboration between **KP Labs** and **MI2.AI (Warsaw 
 
 # Team
 
-|<img src="./assets/images/jnalepa.jpg" alt="Jakub Nalepa" width="175"/>|<img src="./assets/images/tba.png" alt="Paweł Skorupa" height="175"/>|<img src="./assets/images/tba.png" alt="Lukasz Tulczyjew" width="175"/>|<img src="./assets/images/awijata.jpg" alt="Agata Wijata" width="175"/>|
+|<img src="./assets/images/jnalepa.jpg" alt="Jakub Nalepa" width="175"/>|<img src="./assets/images/pskorupa.jpg" alt="Paweł Skorupa" height="175"/>|<img src="./assets/images/tba.png" alt="Lukasz Tulczyjew" width="175"/>|<img src="./assets/images/awijata.jpg" alt="Agata Wijata" width="175"/>|
 | <b>Jakub Nalepa</b> <br/> Head of HSI | <b>Paweł Skorupa</b> <br/> Project Manager | <b>Łukasz Tulczyjew</b> <br/> Research Scientist | <b>Agata Wijata</b> <br/> Research Scientist |
 
 |<img src="./assets/images/pbiecek.png" alt="Przemysław Biecek" width="175"/>|<img src="./assets/images/hbaniecki.jpg" alt="Hubert Baniecki" width="175"/>|<img src="./assets/images/tkwiecinski.jpg" alt="Tymoteusz Kwiecińsk" width="175"/>|<img src="./assets/images/vzaigrajew.jpg" alt="Vladimir Zaigrajew" width="175"/>|
