@@ -47,6 +47,13 @@ Research project done in collaboration between **KP Labs** and **MI2.AI (Warsaw 
 
 Python package for explanations of remote sensing imaginery.
 
+
+### Workshop on XAI for Remote Sensing at ESA Centre for Earth Observation in Frascati
+
+> In September 2024, the MI2 and KP Labs teams led a joint workshop on XAI for Remote Sensing at the ESA's Phi-Lab in Frascati. The event focused on eXplainable Artificial Intelligence (XAI) applications in earth observation, with a special emphasis on hyperspectral imaging. During the workshop, XAI methods used in research and real-world applications were discussed along with the examples from the Meteors, which greatly facilitates the explanation process.
+
+Some of the use-cases, can be already found in <a href="https://xai4space.github.io/meteors/latest/tutorials/introduction/">the tutorials</a> for the package
+
 # Contact
 
 **Email us at pineapple (at) kplabs.pl for any queries.**
