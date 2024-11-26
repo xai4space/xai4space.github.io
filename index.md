@@ -45,7 +45,11 @@ Research project done in collaboration between **KP Labs** and **MI2.AI (Warsaw 
 
 ## Software <small><a href="https://github.com/xai4space/meteors">https://github.com/xai4space/meteors</a></small>
 
-Python package for explanations of remote sensing imaginery.
+<img src="./assets/images/package_logo.png" height="150"/>
+
+*Python package for explanations of remote sensing imaginery.*
+
+> Meteors is an open-source package for creating explanations of hyperspectral and multispectral images. Developed primarily for Pytorch models, Meteors was inspired by the Captum library. Our goal is to provide not only the ability to create explanations for hyperspectral images but also to visualize them in a user-friendly way.
 
 # Contact
 
