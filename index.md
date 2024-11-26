@@ -53,6 +53,12 @@ On November 22, 2024, in Warsaw, Vladimir Zaigrajew and Tymoteusz Kwieciński ga
 
 📊 [View presentation slides](https://github.com/xai4space/xai4space.github.io/tree/main/assets/materials/Meteors_DSS.pdf)
 
+### Workshop on XAI for Remote Sensing at ESA Centre for Earth Observation in Frascati
+
+> In September 2024, the MI2 and KP Labs teams led a joint workshop on XAI for Remote Sensing at the ESA's Phi-Lab in Frascati. The event focused on eXplainable Artificial Intelligence (XAI) applications in earth observation, with a special emphasis on hyperspectral imaging. During the workshop, XAI methods used in research and real-world applications were discussed along with the examples from the Meteors, which greatly facilitates the explanation process.
+
+Some of the use-cases, can be already found in <a href="https://xai4space.github.io/meteors/latest/tutorials/introduction/">the tutorials</a> for the package
+
 # Contact
 
 **Email us at pineapple (at) kplabs.pl for any queries.**
