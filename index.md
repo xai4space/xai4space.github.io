@@ -47,6 +47,12 @@ Research project done in collaboration between **KP Labs** and **MI2.AI (Warsaw 
 
 Python package for explanations of remote sensing imaginery.
 
+### Meteors Package Presentation at Data Science Summit 2024
+
+On November 22, 2024, in Warsaw, Vladimir Zaigrajew and Tymoteusz Kwieciński gave an in-person presentation of the Meteors package at the Data Science Summit 2024. The presentation was featured in the "Earth Observation and Geospatial Data" session. The package received a strong interest and positive feedback from the audience.
+
+📊 [View presentation slides](https://github.com/xai4space/xai4space.github.io/tree/main/assets/materials/Meteors_DSS.pdf)
+
 # Contact
 
 **Email us at pineapple (at) kplabs.pl for any queries.**
