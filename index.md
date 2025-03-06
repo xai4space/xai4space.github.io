@@ -43,9 +43,9 @@ Research project done in collaboration between **KP Labs** and **MI2.AI (Warsaw 
 
 > Remote sensing applications require machine learning models that are reliable and robust, highlighting the importance of red teaming for uncovering flaws and biases. We introduce a novel red teaming approach for hyperspectral image analysis, specifically for soil parameter estimation in the Hyperview challenge. Utilizing SHAP for red teaming, we enhanced the top-performing model based on our findings. Additionally, we introduced a new visualization technique to improve model understanding in the hyperspectral domain.
 
-## Graphical Overview <small><a href="https://www.dropbox.com/scl/fi/1n82yos6nsbpqgrr2n5gr/Pineapple-graphical-overview-v3-20250103.pdf?rlkey=blwwziqsfbhfthlpnl0gvxage&st=7cu51gr0&dl=0</a></small>
+## Graphical Overview 
 
-> **Decoding Earth’s Layers** Graphical Introduction to eXplainable AI for Earth Observation Application to Hyperspectral Imagers.
+<a href="https://www.dropbox.com/scl/fi/1n82yos6nsbpqgrr2n5gr/Pineapple-graphical-overview-v3-20250103.pdf?rlkey=blwwziqsfbhfthlpnl0gvxage&st=7cu51gr0&dl=0">Decoding Earth’s Layers. Graphical Introduction to eXplainable AI for Earth Observation Application to Hyperspectral Imagers.</a>
 
 <img src="./assets/images/DecodingEarth.png" height="250"/>
 
